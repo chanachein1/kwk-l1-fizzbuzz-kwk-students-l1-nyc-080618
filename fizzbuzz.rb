@@ -1,4 +1,4 @@
-x=6
+x=7
 if x % 3==0 
   print "fizz"
   elsif x==8
