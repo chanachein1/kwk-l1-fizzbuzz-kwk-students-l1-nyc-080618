@@ -1,5 +1,5 @@
 x=6
-if x % 3=0 
+if x % 3==0 
   print "fizz"
   elsif x==8
   print "buzz"
